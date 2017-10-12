@@ -5,7 +5,7 @@
 ###### opencv
 ###### matplotlib
 
-### once install, check if you are able to succefully import given libs:- 
+### once install, check if you are able to successfully import given libs:- 
 
 ``` python
 import cv2
