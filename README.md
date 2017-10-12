@@ -1,5 +1,5 @@
 # opencv_experiments
-### Install these required dependecies:-
+### Install these required dependencies:-
 ###### Python3.X
 ###### numpy
 ###### opencv
